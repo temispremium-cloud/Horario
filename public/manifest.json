@@ -1,0 +1,32 @@
+{
+  "short_name": "UniGuajira",
+  "name": "Horario Estudiante - UniGuajira",
+  "icons": [
+    {
+      "src": "/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512 512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#b7191f",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Horario Estudiante de Ingeniería de Sistemas - Universidad de La Guajira",
+  "lang": "es",
+  "categories": ["education", "productivity"]
+}
